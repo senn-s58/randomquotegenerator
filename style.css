@@ -23,7 +23,6 @@ body {
     color: rgba(255, 255, 255, 0.637);
     border-radius: 12px;
     border: 2px solid rgba(255, 255, 255, 0.342);
-    box-shadow: 0 0.5px 12px #ccc;
     text-align: center;
 }
 
